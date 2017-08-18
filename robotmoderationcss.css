@@ -24,7 +24,12 @@ iframe{
 	color: rgb(255,0,0);
 }
 .commandslist{
-	text-align: center;
+	text-align: left;
 	color: rgb(255,0,0);
-	font-size: 25px;
+	font-size: 55px;
+}
+.commandslistheader{
+	text-align: left;
+	color: rgb(255,0,0);
+	font-size: 45px;
 }
